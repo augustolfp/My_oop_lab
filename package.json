@@ -1,0 +1,23 @@
+{
+  "name": "my_oop_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustolfp/My_oop_lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustolfp/My_oop_lab/issues"
+  },
+  "homepage": "https://github.com/augustolfp/My_oop_lab#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
